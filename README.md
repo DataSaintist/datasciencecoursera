@@ -1,4 +1,3 @@
-datasciencecoursera
-===================
+Readme.md
 
-## This is a markdown file
+This file is created in this repository for Coursera Project.
